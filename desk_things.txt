@@ -1,0 +1,4 @@
+Pen
+Lamp
+Paper
+Book
